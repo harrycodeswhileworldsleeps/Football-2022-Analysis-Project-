@@ -15,6 +15,15 @@
 4. Nationality
 5. Weak Foot 
 
+### Few Graphs
+
+![image](https://user-images.githubusercontent.com/94862735/212106807-ad2693c6-c136-4dad-ae62-d8de874877e6.png)
+
+![image](https://user-images.githubusercontent.com/94862735/212106843-f11833d7-dce5-4201-8e22-f65d41468d34.png)
+
+![image](https://user-images.githubusercontent.com/94862735/212106886-60b30525-5165-4b66-8173-2f92e4a7c992.png)
+
+
 # Summary And Conclusion
 
 ### Few key points were 
@@ -45,6 +54,6 @@
 
  1. K Mbappe 
  2. J Oblak
-
+ 
 - Stay Safe 
 - For detailed analysis find the notebook above
